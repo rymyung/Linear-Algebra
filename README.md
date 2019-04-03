@@ -5,16 +5,16 @@ This is summary of 'Linear algebra for A.I' lecture in edwith. [Link](http://www
 ## Index
 
 ### Chapter 1. 들어가기 전에
-* Intro
-* 선형대수의 기초
+* **Intro**
+* **선형대수의 기초**
 
 ### Chapter 2. 선형시스템 및 선형변환
-* 선형방정식과 선형시스템
-* 실습 Ⅰ
-* 선형결합
-* 선형독립과 선형종속
-* 부분공간의 기저와 차원
-* 선형변환
+* **선형방정식과 선형시스템**
+* **실습 Ⅰ**
+* **선형결합**
+* **선형독립과 선형종속**
+* **부분공간의 기저와 차원**
+* **선형변환**
 * 선형변환 with Neural Networks
 * 전사함수와 일대일함수
 
